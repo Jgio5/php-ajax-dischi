@@ -13,7 +13,7 @@ body {
 .container {
     margin: 0 auto;
     padding-top: 30px;
-    width: 80%;
+    width: 70%;
 }
 
 /* Header */
@@ -36,7 +36,6 @@ body {
 #section_cd {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
     align-items: center;
 }
 
